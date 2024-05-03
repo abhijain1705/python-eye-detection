@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+*.pyc
+
+# IDE settings (optional, adjust as needed)
+.vscode/
+.idea/
+
+# Dependencies
+# Add any other dependency directories you might have
+# If you're using pipenv:
+Pipfile
+Pipfile.lock
+
+# If you're using poetry:
+poetry.lock

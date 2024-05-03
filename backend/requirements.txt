@@ -1,0 +1,6 @@
+base64
+flask
+flask-socketio
+mediapipe
+numpy
+opencv-python
